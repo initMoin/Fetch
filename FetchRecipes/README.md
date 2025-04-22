@@ -61,7 +61,13 @@ The UI is intentionally minimal. While functional and adaptive, there’s room f
 
 ## Screenshots
 
-![Screenshot](https://github.com/user-attachments/assets/dbbc79b8-5e27-463b-a188-fffe0c4ceb5b)
+Screenshot:
+
+![Screenshot](https://github.com/user-attachments/assets/e0300e6f-000d-4ace-bc93-41371c7bcca1)
+
+
+Video recording:
+
 https://github.com/user-attachments/assets/7bdfb2a1-de18-499b-a529-5cee4ada5aff
 
 
